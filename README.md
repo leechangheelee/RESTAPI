@@ -1,3 +1,15 @@
+구름IDE에서 RESTful API 구현 연습 (SpringBoot)  
+with POSTMAN
+
+
+/api/product
+* METHOD : GET → 제품 목록 리턴
+* METHOD : POST → 제품 신규등록
+
+/api/product/3
+* METHOD : GET → 3번 제품정보 리턴
+* METHOD : DELETE → 3번 제품정보 삭제
+
 ```
 ┌───────────────────────────────────────────────┐
                                        _       
